@@ -1,0 +1,496 @@
+TAGO 고속버스 터미널 ID (depTerminalId / arrTerminalId)
+출처: 국토교통부 TAGO 고속버스정보 API - GetExpBusTrminlList
+URL: http://apis.data.go.kr/1613000/ExpBusInfo/GetExpBusTrminlList
+한국관광공사 모여행 프로젝트 RAG 문서
+수집일: 2026-06-06 | 총 445개 터미널 (2페이지 수집)
+
+────────────────────────────────────────────────────────
+[터미널명] = [터미널ID]
+────────────────────────────────────────────────────────
+
+## 서울·수도권 (NAEK010 ~ NAEK195)
+서울경부            = NAEK010
+센트럴시티(서울)    = NAEK020
+센트럴시티(서울)    = NAEK021
+동서울              = NAEK030
+동서울              = NAEK031
+동서울              = NAEK032
+동서울              = NAEK035
+상봉                = NAEK040
+파주문산            = NAEK045
+파주운정            = NAEK046
+서울남부            = NAEK050
+김포공항            = NAEK060
+인천                = NAEK100
+부천                = NAEK101
+송내                = NAEK102
+김포                = NAEK103
+김포공항            = NAEK104
+인천공항T1          = NAEK105
+송도                = NAEK106
+호계금호            = NAEK107
+호계동              = NAEK108
+서수원              = NAEK109
+수원                = NAEK110
+용인신갈            = NAEK111
+영통                = NAEK112
+아주대              = NAEK113
+신갈시외            = NAEK114
+고양화정            = NAEK115
+고양백석            = NAEK116
+인천공항T2          = NAEK117
+죽전                = NAEK118
+신갈영덕            = NAEK119
+성남                = NAEK120
+성남                = NAEK121
+병점                = NAEK122
+동천(호남)          = NAEK123
+공항왕복            = NAEK124
+광명                = NAEK125
+철산                = NAEK126
+오산                = NAEK127
+병점역              = NAEK128
+안성                = NAEK130
+안성중대            = NAEK131
+안성풍림            = NAEK132
+안성공도            = NAEK133
+안성한경            = NAEK134
+안양역              = NAEK135
+평촌                = NAEK136
+안성대림            = NAEK137
+안성회관            = NAEK138
+여주대              = NAEK139
+여주                = NAEK140
+여주프리            = NAEK141
+오천                = NAEK142
+이천시외            = NAEK143
+부밭                = NAEK144
+능서                = NAEK145
+포천                = NAEK146
+신철원              = NAEK147
+철원                = NAEK148
+용인유림            = NAEK149
+용인                = NAEK150
+경기광주            = NAEK151
+둔전                = NAEK152
+삼계리              = NAEK153
+경방                = NAEK154
+초부리              = NAEK155
+모현                = NAEK156
+매산리              = NAEK157
+양벌리              = NAEK158
+9구간               = NAEK159
+이천                = NAEK160
+용인기흥역          = NAEK161
+2구간               = NAEK162
+3구간               = NAEK163
+4구간               = NAEK164
+5구간               = NAEK165
+6구간               = NAEK166
+7구간               = NAEK167
+의정부역            = NAEK168
+구리                = NAEK169
+의정부              = NAEK170
+이천마장            = NAEK171
+이천부발            = NAEK172
+의정부              = NAEK173
+평택용이            = NAEK174
+평택대              = NAEK175
+안중오거리          = NAEK176
+안중                = NAEK177
+평택시외            = NAEK178
+평택굿모닝병원      = NAEK179
+평택                = NAEK180
+운천                = NAEK186
+장현                = NAEK187
+안산                = NAEK190
+상록수역            = NAEK191
+시흥시화            = NAEK195
+
+## 강원권 (NAEK200 ~ NAEK274)
+강릉                = NAEK200
+경포해변            = NAEK201
+주문진              = NAEK202
+가톨릭관동대강릉    = NAEK203
+동해                = NAEK210
+동해그린            = NAEK211
+강원대              = NAEK219
+삼척                = NAEK220
+삼척해변            = NAEK221
+정선                = NAEK222
+속초                = NAEK230
+횡계                = NAEK235
+횡성                = NAEK238
+횡성                = NAEK239
+원주                = NAEK240
+횡성시외            = NAEK241
+홍천                = NAEK242
+낙산                = NAEK243
+원주혁신            = NAEK244
+원주문막            = NAEK245
+원주기업도시        = NAEK246
+원주심사평가원      = NAEK247
+춘천                = NAEK250
+청평                = NAEK252
+가평                = NAEK255
+강촌                = NAEK257
+화천                = NAEK260
+양양                = NAEK270
+영월                = NAEK272
+고한사북            = NAEK273
+태백                = NAEK274
+
+## 충청권 (NAEK300 ~ NAEK497)
+대전복합            = NAEK300
+대전복합            = NAEK301
+대전시외            = NAEK302
+신탄진역            = NAEK303
+대전청사(샘머리)    = NAEK305
+청사시외            = NAEK306
+대전도룡            = NAEK307
+천안IC              = NAEK309
+천안                = NAEK310
+당진                = NAEK312
+서산                = NAEK313
+정안                = NAEK315
+정안                = NAEK316
+공주                = NAEK320
+유구                = NAEK321
+인삼랜드            = NAEK324
+인삼랜드            = NAEK325
+금산                = NAEK330
+금산추부            = NAEK331
+천안종합운동장      = NAEK335
+아산시외            = NAEK336
+배방정류소          = NAEK337
+아산테크노밸리      = NAEK338
+아산(둔포)          = NAEK339
+아산온양            = NAEK340
+아산서부            = NAEK341
+아산탕정사무소      = NAEK342
+천안아산역          = NAEK343
+아산둔포            = NAEK344
+아산                = NAEK345
+천안공단            = NAEK346
+선문대              = NAEK347
+세종시외            = NAEK348
+탕정삼성LCD         = NAEK349
+조치원              = NAEK350
+세종연구단지        = NAEK351
+세종터미널          = NAEK352
+세종청사            = NAEK353
+홍대조치원          = NAEK354
+고대조치원          = NAEK355
+오송역              = NAEK356
+오송단지            = NAEK357
+세종터미널(연구)    = NAEK358
+세종2청사           = NAEK359
+유성복합            = NAEK360
+세종국무조정실      = NAEK361
+세종시청            = NAEK362
+세종아름동          = NAEK363
+논산                = NAEK370
+연무대              = NAEK380
+대산                = NAEK385
+성연                = NAEK386
+원예박람회(꽃지)    = NAEK387
+기지시              = NAEK388
+홍성                = NAEK389
+내포                = NAEK390
+청양                = NAEK391
+정산                = NAEK392
+서산                = NAEK393
+태안                = NAEK394
+보령                = NAEK395
+안면도              = NAEK396
+창기리              = NAEK397
+예산                = NAEK398
+덕산스파            = NAEK399
+청주(고속)          = NAEK400
+청주(센트럴)        = NAEK401
+남청주              = NAEK402
+관기                = NAEK404
+청주대정류소        = NAEK405
+청주북부            = NAEK406
+청주공항            = NAEK407
+속리산              = NAEK408
+보은                = NAEK409
+옥천                = NAEK410
+서충주              = NAEK419
+충주                = NAEK420
+서충주              = NAEK421
+교통대              = NAEK422
+황간                = NAEK440
+제천하소            = NAEK449
+제천                = NAEK450
+증평                = NAEK455
+괴산                = NAEK457
+평동                = NAEK458
+단양상진            = NAEK459
+단양                = NAEK460
+사평리              = NAEK461
+영춘                = NAEK462
+구인사              = NAEK463
+대천욕장            = NAEK466
+명지대              = NAEK470
+동백                = NAEK471
+강남마을            = NAEK472
+세종리젠            = NAEK473
+새릉골              = NAEK474
+구성                = NAEK475
+연원마을            = NAEK476
+죽전보정            = NAEK477
+수지현대            = NAEK478
+현대타운            = NAEK479
+독바위              = NAEK480
+범계                = NAEK481
+안양(경)            = NAEK482
+산의초교            = NAEK483
+추풍령              = NAEK490
+태안                = NAEK495
+꽃지                = NAEK497
+
+## 전라권 (NAEK500 ~ NAEK655)
+광주(유·스퀘어)     = NAEK500
+광주비아            = NAEK503
+광주운암            = NAEK504
+목포                = NAEK505
+여천                = NAEK509
+여수                = NAEK510
+엑스포              = NAEK511
+신대CGV             = NAEK512
+순천신대지구        = NAEK513
+순천대              = NAEK514
+순천                = NAEK515
+순천종합            = NAEK516
+순천만              = NAEK517
+구례                = NAEK519
+광양                = NAEK520
+동광양(중마)        = NAEK525
+섬진강              = NAEK527
+섬진강              = NAEK528
+섬진강              = NAEK529
+나주                = NAEK530
+나주혁신            = NAEK531
+강진                = NAEK535
+고흥                = NAEK540
+녹동                = NAEK545
+무안                = NAEK550
+해제                = NAEK552
+보성                = NAEK554
+벌교                = NAEK555
+송광사              = NAEK556
+영광                = NAEK560
+영산포              = NAEK565
+영암                = NAEK570
+완도항              = NAEK574
+완도                = NAEK575
+관산                = NAEK576
+회진                = NAEK577
+원동                = NAEK578
+노력항              = NAEK579
+장흥                = NAEK580
+함평                = NAEK581
+담양                = NAEK582
+장성                = NAEK583
+문장                = NAEK584
+지도                = NAEK585
+화순                = NAEK586
+능주                = NAEK587
+옥과                = NAEK588
+곡성                = NAEK589
+진도                = NAEK590
+삼호                = NAEK591
+남악                = NAEK592
+임자(대광)          = NAEK593
+임자(진리)          = NAEK594
+해남                = NAEK595
+전주                = NAEK600
+전주                = NAEK601
+전주                = NAEK602
+전주                = NAEK603
+전주                = NAEK604
+호남제일            = NAEK605
+전주시외            = NAEK609
+군산                = NAEK610
+군산대야            = NAEK611
+익산                = NAEK615
+익산팔봉            = NAEK616
+완주                = NAEK618
+애통리              = NAEK619
+김제                = NAEK620
+전북혁신            = NAEK621
+자치인재원          = NAEK622
+남원                = NAEK625
+덕과                = NAEK626
+태인                = NAEK629
+정읍                = NAEK630
+정읍                = NAEK631
+흥덕                = NAEK634
+고창                = NAEK635
+부안                = NAEK640
+전북강진            = NAEK644
+순창                = NAEK645
+봉동                = NAEK649
+진안                = NAEK650
+안천                = NAEK651
+무주                = NAEK655
+
+## 경남권 (NAEK700 ~ NAEK750)
+부산                = NAEK700
+부산시외            = NAEK701
+부산사상            = NAEK703
+진해                = NAEK704
+마산                = NAEK705
+내서                = NAEK706
+창원                = NAEK710
+창원역              = NAEK711
+울산시외            = NAEK714
+울산                = NAEK715
+울산신복            = NAEK716
+진주                = NAEK720
+진주시외            = NAEK721
+진주                = NAEK722
+진주개양            = NAEK723
+진주혁신            = NAEK724
+통영                = NAEK730
+장승포              = NAEK731
+고현                = NAEK732
+김해                = NAEK735
+김해장유            = NAEK736
+장유인천            = NAEK737
+김해공항            = NAEK740
+양산                = NAEK745
+통도사신평          = NAEK746
+밀양                = NAEK750
+
+## 경북·대구권 (NAEK800 ~ NAEK898)
+동대구              = NAEK800
+동대구              = NAEK801
+동대구              = NAEK802
+동대구              = NAEK803
+동대구              = NAEK804
+서대구              = NAEK805
+동대구              = NAEK806
+대구용계            = NAEK807
+동대구              = NAEK808
+대구혁신            = NAEK809
+구미                = NAEK810
+대구서부            = NAEK811
+선산                = NAEK812
+선산                = NAEK813
+경주                = NAEK815
+김천                = NAEK820
+김천혁신            = NAEK821
+낙동강              = NAEK823
+낙동강              = NAEK824
+상주                = NAEK825
+포항시청            = NAEK828
+포항                = NAEK830
+포항시외            = NAEK831
+풍기                = NAEK834
+영주                = NAEK835
+안동                = NAEK840
+안동(경)            = NAEK841
+영해                = NAEK842
+영덕                = NAEK843
+평해                = NAEK844
+영천                = NAEK845
+영천망정동          = NAEK846
+점촌                = NAEK850
+예천                = NAEK851
+경북도청            = NAEK852
+울진                = NAEK853
+광비                = NAEK854
+삼근                = NAEK855
+온정                = NAEK856
+후포                = NAEK857
+봉화                = NAEK858
+금강송              = NAEK859
+온정(EZ)            = NAEK860
+대구공항            = NAEK861
+영주장수            = NAEK862
+영주꽃동산          = NAEK863
+동래                = NAEK887
+양산                = NAEK888
+석계                = NAEK889
+통도사              = NAEK890
+언양                = NAEK891
+인보                = NAEK892
+내남                = NAEK893
+경주                = NAEK894
+건천                = NAEK895
+영천                = NAEK896
+대창                = NAEK897
+진량                = NAEK898
+
+## 기타·수수료·경유 터미널 (NAEK911 ~ NAEK969)
+광주(500)_수수료    = NAEK911
+광주비아(503)_수수료= NAEK912
+전주(602)_수수료    = NAEK913
+신성                = NAEK920
+옥천                = NAEK921
+동이                = NAEK922
+금강                = NAEK923
+청성                = NAEK924
+금곡                = NAEK925
+용산                = NAEK926
+금계                = NAEK927
+황간                = NAEK928
+추풍령              = NAEK929
+봉산                = NAEK930
+김천                = NAEK931
+대신                = NAEK932
+구미                = NAEK933
+석적                = NAEK934
+왜관                = NAEK935
+복지                = NAEK936
+공단                = NAEK937
+라쿠카라차(KOUBS)   = NAEK941
+라쿠카라차(EZ)      = NAEK942
+통합단말            = NAEK950
+통합단말            = NAEK951
+통합단말            = NAEK952
+통합단말            = NAEK953
+통합단말            = NAEK954
+통합단말            = NAEK955
+통합단말            = NAEK956
+통합단말            = NAEK957
+통합단말            = NAEK958
+통합단말            = NAEK959
+성남금호            = NAEK961
+성남동양            = NAEK962
+성남속리            = NAEK963
+성남중앙            = NAEK964
+성남천일            = NAEK965
+성남고려            = NAEK966
+모바일              = NAEK968
+통합단말            = NAEK969
+
+────────────────────────────────────────────────────────
+주요 터미널 빠른 참조 (자주 사용되는 거점 터미널)
+────────────────────────────────────────────────────────
+서울경부    = NAEK010  |  동서울     = NAEK030  |  서울남부   = NAEK050
+센트럴시티  = NAEK020  |  상봉       = NAEK040
+대전복합    = NAEK300  |  유성복합   = NAEK360
+청주(고속)  = NAEK400  |  충주       = NAEK420  |  제천       = NAEK450
+광주유스퀘어= NAEK500  |  여수       = NAEK510  |  순천       = NAEK515
+전주        = NAEK600  |  군산       = NAEK610  |  익산       = NAEK615
+부산        = NAEK700  |  부산사상   = NAEK703
+울산        = NAEK715  |  창원       = NAEK710  |  진주       = NAEK720
+동대구      = NAEK800  |  서대구     = NAEK805  |  구미       = NAEK810
+포항        = NAEK830  |  안동       = NAEK840  |  경주       = NAEK815
+강릉        = NAEK200  |  원주       = NAEK240  |  춘천       = NAEK250
+속초        = NAEK230  |  태백       = NAEK274
+
+────────────────────────────────────────────────────────
+사용 예시
+────────────────────────────────────────────────────────
+서울 출발 → 대전 도착: depTerminalId=NAEK010, arrTerminalId=NAEK300
+서울 출발 → 부산 도착: depTerminalId=NAEK010, arrTerminalId=NAEK700
+동서울 출발 → 강릉 도착: depTerminalId=NAEK030, arrTerminalId=NAEK200
+센트럴시티 출발 → 광주 도착: depTerminalId=NAEK020, arrTerminalId=NAEK500
+서울남부 출발 → 순천 도착: depTerminalId=NAEK050, arrTerminalId=NAEK515
+동서울 출발 → 속초 도착: depTerminalId=NAEK030, arrTerminalId=NAEK230
+서울경부 출발 → 전주 도착: depTerminalId=NAEK010, arrTerminalId=NAEK600
+서울경부 출발 → 단양 도착: depTerminalId=NAEK010, arrTerminalId=NAEK460

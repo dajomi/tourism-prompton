@@ -1,0 +1,2402 @@
+[
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC01",
+    "lv2n": "호텔",
+    "lv3c": "AC010100",
+    "lv3n": "호텔",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC02",
+    "lv2n": "콘도미니엄",
+    "lv3c": "AC020100",
+    "lv3n": "콘도",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC02",
+    "lv2n": "콘도미니엄",
+    "lv3c": "AC020200",
+    "lv3n": "레지던스",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC03",
+    "lv2n": "펜션/민박",
+    "lv3c": "AC030100",
+    "lv3n": "펜션",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC03",
+    "lv2n": "펜션/민박",
+    "lv3c": "AC030200",
+    "lv3n": "한옥스테이",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC03",
+    "lv2n": "펜션/민박",
+    "lv3c": "AC030300",
+    "lv3n": "농어촌민박",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC03",
+    "lv2n": "펜션/민박",
+    "lv3c": "AC030400",
+    "lv3n": "홈스테이",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC04",
+    "lv2n": "모텔",
+    "lv3c": "AC040100",
+    "lv3n": "모텔",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC05",
+    "lv2n": "캠핑",
+    "lv3c": "AC050100",
+    "lv3n": "일반야영장",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC05",
+    "lv2n": "캠핑",
+    "lv3c": "AC050200",
+    "lv3n": "오토캠핑장",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC05",
+    "lv2n": "캠핑",
+    "lv3c": "AC050300",
+    "lv3n": "카라반",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC05",
+    "lv2n": "캠핑",
+    "lv3c": "AC050400",
+    "lv3n": "글램핑장",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC06",
+    "lv2n": "호스텔",
+    "lv3c": "AC060100",
+    "lv3n": "유스호스텔",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "AC",
+    "lv1n": "숙박",
+    "lv2c": "AC06",
+    "lv2n": "호스텔",
+    "lv3c": "AC060200",
+    "lv3n": "게스트하우스",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV01",
+    "lv2n": "축제",
+    "lv3c": "EV010100",
+    "lv3n": "문화관광축제",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV01",
+    "lv2n": "축제",
+    "lv3c": "EV010200",
+    "lv3n": "문화예술축제",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV01",
+    "lv2n": "축제",
+    "lv3c": "EV010300",
+    "lv3n": "지역특산물축제",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV01",
+    "lv2n": "축제",
+    "lv3c": "EV010400",
+    "lv3n": "전통역사축제",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV01",
+    "lv2n": "축제",
+    "lv3c": "EV010500",
+    "lv3n": "생태자연축제",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV01",
+    "lv2n": "축제",
+    "lv3c": "EV010600",
+    "lv3n": "기타축제",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020100",
+    "lv3n": "전통공연",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020200",
+    "lv3n": "연극",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020300",
+    "lv3n": "뮤지컬",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020400",
+    "lv3n": "오페라",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020500",
+    "lv3n": "무용",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020600",
+    "lv3n": "클래식음악회",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020700",
+    "lv3n": "대중콘서트",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020800",
+    "lv3n": "영화",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV020900",
+    "lv3n": "기타공연",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV02",
+    "lv2n": "공연",
+    "lv3c": "EV021000",
+    "lv3n": "넌버벌",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV03",
+    "lv2n": "행사",
+    "lv3c": "EV030100",
+    "lv3n": "전시회",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV03",
+    "lv2n": "행사",
+    "lv3c": "EV030200",
+    "lv3n": "박람회",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV03",
+    "lv2n": "행사",
+    "lv3c": "EV030300",
+    "lv3n": "스포츠경기",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EV",
+    "lv1n": "축제/공연/행사",
+    "lv2c": "EV03",
+    "lv2n": "행사",
+    "lv3c": "EV030400",
+    "lv3n": "기타행사",
+    "contenttypeid": "15",
+    "typename": "축제/공연/행사"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX01",
+    "lv2n": "전통체험",
+    "lv3c": "EX010100",
+    "lv3n": "전통문화체험",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX02",
+    "lv2n": "공예체험",
+    "lv3c": "EX020100",
+    "lv3n": "금속공예체험",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX02",
+    "lv2n": "공예체험",
+    "lv3c": "EX020200",
+    "lv3n": "유리공예체험",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX02",
+    "lv2n": "공예체험",
+    "lv3c": "EX020300",
+    "lv3n": "가죽공예체험",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX02",
+    "lv2n": "공예체험",
+    "lv3c": "EX020400",
+    "lv3n": "기타공예체험",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX03",
+    "lv2n": "농.산.어촌 체험",
+    "lv3c": "EX030100",
+    "lv3n": "체험마을",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX03",
+    "lv2n": "농.산.어촌 체험",
+    "lv3c": "EX030200",
+    "lv3n": "체험목장",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX03",
+    "lv2n": "농.산.어촌 체험",
+    "lv3c": "EX030300",
+    "lv3n": "체험농장",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX03",
+    "lv2n": "농.산.어촌 체험",
+    "lv3c": "EX030400",
+    "lv3n": "체험어장",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX04",
+    "lv2n": "산사체험",
+    "lv3c": "EX040100",
+    "lv3n": "템플스테이",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX04",
+    "lv2n": "산사체험",
+    "lv3c": "EX040200",
+    "lv3n": "사찰문화체험",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX05",
+    "lv2n": "웰니스관광",
+    "lv3c": "EX050100",
+    "lv3n": "온천 / 사우나 / 스파",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX05",
+    "lv2n": "웰니스관광",
+    "lv3c": "EX050200",
+    "lv3n": "찜질방",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX05",
+    "lv2n": "웰니스관광",
+    "lv3c": "EX050300",
+    "lv3n": "한방체험",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX05",
+    "lv2n": "웰니스관광",
+    "lv3c": "EX050400",
+    "lv3n": "힐링명상",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX05",
+    "lv2n": "웰니스관광",
+    "lv3c": "EX050500",
+    "lv3n": "뷰티스파",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX05",
+    "lv2n": "웰니스관광",
+    "lv3c": "EX050600",
+    "lv3n": "기타웰니스",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX05",
+    "lv2n": "웰니스관광",
+    "lv3c": "EX050700",
+    "lv3n": "자연치유",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX05",
+    "lv2n": "웰니스관광",
+    "lv3c": "EX050800",
+    "lv3n": "기타의료관광",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060100",
+    "lv3n": "근대산업유산",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060200",
+    "lv3n": "게임 등 첨단IT산업",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060300",
+    "lv3n": "전통/향토산업",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060400",
+    "lv3n": "문화콘텐츠산업",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060500",
+    "lv3n": "장수기업/산업테마거리",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060600",
+    "lv3n": "자동차/조선/철강 등",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060700",
+    "lv3n": "로봇/항공우주산업",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060800",
+    "lv3n": "화장품/주류/먹거리",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX060900",
+    "lv3n": "친환경/신재생에너지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX06",
+    "lv2n": "산업관광",
+    "lv3c": "EX061000",
+    "lv3n": "기타산업관광지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX07",
+    "lv2n": "기타체험",
+    "lv3c": "EX070100",
+    "lv3n": "유람선/잠수함관광",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "EX",
+    "lv1n": "체험관광",
+    "lv2c": "EX07",
+    "lv2n": "기타체험",
+    "lv3c": "EX070200",
+    "lv3n": "기타체험관광",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD01",
+    "lv2n": "한식",
+    "lv3c": "FD010100",
+    "lv3n": "관광식당",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD01",
+    "lv2n": "한식",
+    "lv3c": "FD010200",
+    "lv3n": "모범음식점",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD02",
+    "lv2n": "외국식",
+    "lv3c": "FD020100",
+    "lv3n": "중식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD02",
+    "lv2n": "외국식",
+    "lv3c": "FD020200",
+    "lv3n": "일식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD02",
+    "lv2n": "외국식",
+    "lv3c": "FD020300",
+    "lv3n": "서양식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD02",
+    "lv2n": "외국식",
+    "lv3c": "FD020400",
+    "lv3n": "기타외국식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD02",
+    "lv2n": "외국식",
+    "lv3c": "FD020500",
+    "lv3n": "퓨전음식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD03",
+    "lv2n": "간이음식",
+    "lv3c": "FD030100",
+    "lv3n": "제과",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD03",
+    "lv2n": "간이음식",
+    "lv3c": "FD030200",
+    "lv3n": "피자, 햄버거, 샌드위치 및 유사음식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD03",
+    "lv2n": "간이음식",
+    "lv3c": "FD030300",
+    "lv3n": "치킨",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD03",
+    "lv2n": "간이음식",
+    "lv3c": "FD030400",
+    "lv3n": "김밥 분식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD03",
+    "lv2n": "간이음식",
+    "lv3c": "FD030500",
+    "lv3n": "이동음식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD03",
+    "lv2n": "간이음식",
+    "lv3c": "FD030600",
+    "lv3n": "기타간이음식",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD04",
+    "lv2n": "주점",
+    "lv3c": "FD040100",
+    "lv3n": "바/펍",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD04",
+    "lv2n": "주점",
+    "lv3c": "FD040200",
+    "lv3n": "생맥주전문점",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD04",
+    "lv2n": "주점",
+    "lv3c": "FD040300",
+    "lv3n": "클럽",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD04",
+    "lv2n": "주점",
+    "lv3c": "FD040400",
+    "lv3n": "전통주/민속주점",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD04",
+    "lv2n": "주점",
+    "lv3c": "FD040500",
+    "lv3n": "기타주점",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD05",
+    "lv2n": "카페/ 찻집",
+    "lv3c": "FD050100",
+    "lv3n": "카페",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD05",
+    "lv2n": "카페/ 찻집",
+    "lv3c": "FD050200",
+    "lv3n": "찻집",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "FD",
+    "lv1n": "음식",
+    "lv2c": "FD05",
+    "lv2n": "카페/ 찻집",
+    "lv3c": "FD050300",
+    "lv3n": "기타음료점",
+    "contenttypeid": "39",
+    "typename": "음식점"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010100",
+    "lv3n": "고궁",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010200",
+    "lv3n": "성ㆍ산성ㆍ성곽",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010300",
+    "lv3n": "문",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010400",
+    "lv3n": "고택",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010500",
+    "lv3n": "생가",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010600",
+    "lv3n": "민속마을",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010700",
+    "lv3n": "사적지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010800",
+    "lv3n": "고분, 능",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS010900",
+    "lv3n": "사당",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS011000",
+    "lv3n": "선사유적지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS011100",
+    "lv3n": "근대건축물",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS01",
+    "lv2n": "역사유적지",
+    "lv3c": "HS011200",
+    "lv3n": "기타역사유적지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS02",
+    "lv2n": "역사유물",
+    "lv3c": "HS020100",
+    "lv3n": "탑ㆍ비석ㆍ기념탑",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS02",
+    "lv2n": "역사유물",
+    "lv3c": "HS020200",
+    "lv3n": "선사유물",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS02",
+    "lv2n": "역사유물",
+    "lv3c": "HS020300",
+    "lv3n": "불상",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS02",
+    "lv2n": "역사유물",
+    "lv3c": "HS020400",
+    "lv3n": "기타역사유물",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS03",
+    "lv2n": "종교성지",
+    "lv3c": "HS030100",
+    "lv3n": "불교",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS03",
+    "lv2n": "종교성지",
+    "lv3c": "HS030200",
+    "lv3n": "기독교",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS03",
+    "lv2n": "종교성지",
+    "lv3c": "HS030300",
+    "lv3n": "이슬람",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS03",
+    "lv2n": "종교성지",
+    "lv3c": "HS030400",
+    "lv3n": "기타 종교성지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS04",
+    "lv2n": "안보관광지",
+    "lv3c": "HS040100",
+    "lv3n": "안보유적지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS04",
+    "lv2n": "안보관광지",
+    "lv3c": "HS040200",
+    "lv3n": "안보관광시설",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS04",
+    "lv2n": "안보관광지",
+    "lv3c": "HS040300",
+    "lv3n": "북한관광지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "HS",
+    "lv1n": "역사관광",
+    "lv2c": "HS04",
+    "lv2n": "안보관광지",
+    "lv3c": "HS040400",
+    "lv3n": "기타안보관광지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010100",
+    "lv3n": "인라인(실내 인라인 포함)",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010200",
+    "lv3n": "자전거하이킹",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010300",
+    "lv3n": "카트",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010400",
+    "lv3n": "골프",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010500",
+    "lv3n": "경마",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010600",
+    "lv3n": "경륜",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010700",
+    "lv3n": "승마",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010800",
+    "lv3n": "스키/스노보드",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS010900",
+    "lv3n": "스케이트",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011000",
+    "lv3n": "썰매장",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011100",
+    "lv3n": "수렵장",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011200",
+    "lv3n": "사격장",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011300",
+    "lv3n": "암벽등반",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011400",
+    "lv3n": "서바이벌게임",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011500",
+    "lv3n": "ATV",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011600",
+    "lv3n": "MTB",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011700",
+    "lv3n": "오프로드",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011800",
+    "lv3n": "번지점프",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS01",
+    "lv2n": "육상레저스포츠",
+    "lv3c": "LS011900",
+    "lv3n": "기타육상레저스포츠",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020100",
+    "lv3n": "윈드서핑/제트스키",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020200",
+    "lv3n": "카약/카누",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020300",
+    "lv3n": "요트",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020400",
+    "lv3n": "스노쿨링/스킨스쿠버다이빙",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020500",
+    "lv3n": "민물낚시",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020600",
+    "lv3n": "바다낚시",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020700",
+    "lv3n": "수영",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020800",
+    "lv3n": "래프팅",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS020900",
+    "lv3n": "수상오토바이",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS021000",
+    "lv3n": "수상자전거",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS021100",
+    "lv3n": "조정",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS021200",
+    "lv3n": "워터슬레드",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS021300",
+    "lv3n": "패러세일",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS02",
+    "lv2n": "수상레저스포츠",
+    "lv3c": "LS021400",
+    "lv3n": "기타수상레저스포츠",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS03",
+    "lv2n": "항공레저스포츠",
+    "lv3c": "LS030100",
+    "lv3n": "스카이다이빙",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS03",
+    "lv2n": "항공레저스포츠",
+    "lv3c": "LS030200",
+    "lv3n": "초경량비행",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS03",
+    "lv2n": "항공레저스포츠",
+    "lv3c": "LS030300",
+    "lv3n": "헹글라이딩/패러글라이딩",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS03",
+    "lv2n": "항공레저스포츠",
+    "lv3c": "LS030400",
+    "lv3n": "열기구",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS03",
+    "lv2n": "항공레저스포츠",
+    "lv3c": "LS030500",
+    "lv3n": "무인비행장치(드론)",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS03",
+    "lv2n": "항공레저스포츠",
+    "lv3c": "LS030600",
+    "lv3n": "기타항공레저스포츠",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "LS",
+    "lv1n": "레저스포츠",
+    "lv2c": "LS04",
+    "lv2n": "복합레저스포츠",
+    "lv3c": "LS040100",
+    "lv3n": "복합레저스포츠",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA01",
+    "lv2n": "자연경관(산)",
+    "lv3c": "NA010100",
+    "lv3n": "산, 고개, 오름, 봉우리",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA01",
+    "lv2n": "자연경관(산)",
+    "lv3c": "NA010200",
+    "lv3n": "숲",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA01",
+    "lv2n": "자연경관(산)",
+    "lv3c": "NA010300",
+    "lv3n": "폭포",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA01",
+    "lv2n": "자연경관(산)",
+    "lv3c": "NA010400",
+    "lv3n": "계곡",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA01",
+    "lv2n": "자연경관(산)",
+    "lv3c": "NA010500",
+    "lv3n": "약수터",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020100",
+    "lv3n": "강",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020200",
+    "lv3n": "호수",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020300",
+    "lv3n": "저수지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020400",
+    "lv3n": "연못·늪",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020500",
+    "lv3n": "섬",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020600",
+    "lv3n": "염전",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020700",
+    "lv3n": "항구/포구",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020800",
+    "lv3n": "해안절경",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA02",
+    "lv2n": "자연경관(하천‧해양)",
+    "lv3c": "NA020900",
+    "lv3n": "해변. 해수욕장",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA03",
+    "lv2n": "자연생태",
+    "lv3c": "NA030100",
+    "lv3n": "동굴",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA03",
+    "lv2n": "자연생태",
+    "lv3c": "NA030200",
+    "lv3n": "희귀동.식물",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA03",
+    "lv2n": "자연생태",
+    "lv3c": "NA030300",
+    "lv3n": "기암괴석",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA03",
+    "lv2n": "자연생태",
+    "lv3c": "NA030400",
+    "lv3n": "생태습지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA03",
+    "lv2n": "자연생태",
+    "lv3c": "NA030500",
+    "lv3n": "기타자연생태",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA04",
+    "lv2n": "자연공원",
+    "lv3c": "NA040100",
+    "lv3n": "국립공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA04",
+    "lv2n": "자연공원",
+    "lv3c": "NA040200",
+    "lv3n": "도립공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA04",
+    "lv2n": "자연공원",
+    "lv3c": "NA040300",
+    "lv3n": "군립공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA04",
+    "lv2n": "자연공원",
+    "lv3c": "NA040400",
+    "lv3n": "지질공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA04",
+    "lv2n": "자연공원",
+    "lv3c": "NA040500",
+    "lv3n": "생태관광지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA04",
+    "lv2n": "자연공원",
+    "lv3c": "NA040600",
+    "lv3n": "자연휴양림",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA04",
+    "lv2n": "자연공원",
+    "lv3c": "NA040700",
+    "lv3n": "수목원ㆍ정원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "NA",
+    "lv1n": "자연관광",
+    "lv2c": "NA05",
+    "lv2n": "기타자연관광",
+    "lv3c": "NA050100",
+    "lv3n": "기타자연관광",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH01",
+    "lv2n": "백화점",
+    "lv3c": "SH010100",
+    "lv3n": "백화점",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH02",
+    "lv2n": "쇼핑몰",
+    "lv3c": "SH020100",
+    "lv3n": "복합쇼핑몰",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH02",
+    "lv2n": "쇼핑몰",
+    "lv3c": "SH020200",
+    "lv3n": "아웃렛",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH03",
+    "lv2n": "대형마트",
+    "lv3c": "SH030100",
+    "lv3n": "대형마트",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH04",
+    "lv2n": "면세점",
+    "lv3c": "SH040100",
+    "lv3n": "공항면세점",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH04",
+    "lv2n": "면세점",
+    "lv3c": "SH040200",
+    "lv3n": "시내면세점",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH04",
+    "lv2n": "면세점",
+    "lv3c": "SH040300",
+    "lv3n": "사후면세점",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH05",
+    "lv2n": "전문매장/상가",
+    "lv3c": "SH050100",
+    "lv3n": "공방/공예품점",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH05",
+    "lv2n": "전문매장/상가",
+    "lv3c": "SH050200",
+    "lv3n": "전문상가",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH05",
+    "lv2n": "전문매장/상가",
+    "lv3c": "SH050300",
+    "lv3n": "관광기념품/특산물판매점",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH06",
+    "lv2n": "시장",
+    "lv3c": "SH060100",
+    "lv3n": "비상설시장",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH06",
+    "lv2n": "시장",
+    "lv3c": "SH060200",
+    "lv3n": "상설시장",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "SH",
+    "lv1n": "쇼핑",
+    "lv2c": "SH07",
+    "lv2n": "기타쇼핑시설",
+    "lv3c": "SH070100",
+    "lv3n": "기타쇼핑시설",
+    "contenttypeid": "38",
+    "typename": "쇼핑"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010100",
+    "lv3n": "건물",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010200",
+    "lv3n": "타워 / 전망대",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010300",
+    "lv3n": "다리 / 대교",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010400",
+    "lv3n": "분수",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010500",
+    "lv3n": "동상",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010600",
+    "lv3n": "터널",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010700",
+    "lv3n": "댐",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010800",
+    "lv3n": "등대",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE01",
+    "lv2n": "랜드마크관광",
+    "lv3c": "VE010900",
+    "lv3n": "기타 건축/조형물",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE02",
+    "lv2n": "테마공원",
+    "lv3c": "VE020100",
+    "lv3n": "테마파크",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE02",
+    "lv2n": "테마공원",
+    "lv3c": "VE020200",
+    "lv3n": "워터파크",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE02",
+    "lv2n": "테마공원",
+    "lv3c": "VE020300",
+    "lv3n": "동물원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE02",
+    "lv2n": "테마공원",
+    "lv3c": "VE020400",
+    "lv3n": "수족관 / 아쿠라리움",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE02",
+    "lv2n": "테마공원",
+    "lv3c": "VE020500",
+    "lv3n": "천문대",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE03",
+    "lv2n": "도시공원",
+    "lv3c": "VE030100",
+    "lv3n": "시민공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE03",
+    "lv2n": "도시공원",
+    "lv3c": "VE030200",
+    "lv3n": "소공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE03",
+    "lv2n": "도시공원",
+    "lv3c": "VE030300",
+    "lv3n": "어린이공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE03",
+    "lv2n": "도시공원",
+    "lv3c": "VE030400",
+    "lv3n": "근린공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE03",
+    "lv2n": "도시공원",
+    "lv3c": "VE030500",
+    "lv3n": "주제공원",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE04",
+    "lv2n": "도시.지역문화관광",
+    "lv3c": "VE040100",
+    "lv3n": "골목길, 문화거리",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE04",
+    "lv2n": "도시.지역문화관광",
+    "lv3c": "VE040200",
+    "lv3n": "마을관광지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE04",
+    "lv2n": "도시.지역문화관광",
+    "lv3c": "VE040300",
+    "lv3n": "둘레길",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE05",
+    "lv2n": "복합관광시설",
+    "lv3c": "VE050100",
+    "lv3n": "관광단지",
+    "contenttypeid": "12",
+    "typename": "관광지"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE05",
+    "lv2n": "복합관광시설",
+    "lv3c": "VE050200",
+    "lv3n": "리조트",
+    "contenttypeid": "32",
+    "typename": "숙박"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE06",
+    "lv2n": "공연시설",
+    "lv3c": "VE060100",
+    "lv3n": "공연장",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE06",
+    "lv2n": "공연시설",
+    "lv3c": "VE060200",
+    "lv3n": "영화관",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE07",
+    "lv2n": "전시시설",
+    "lv3c": "VE070100",
+    "lv3n": "박물관",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE07",
+    "lv2n": "전시시설",
+    "lv3c": "VE070200",
+    "lv3n": "기념관",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE07",
+    "lv2n": "전시시설",
+    "lv3c": "VE070300",
+    "lv3n": "전시관",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE07",
+    "lv2n": "전시시설",
+    "lv3c": "VE070400",
+    "lv3n": "컨벤션센터",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE07",
+    "lv2n": "전시시설",
+    "lv3c": "VE070500",
+    "lv3n": "과학관",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE07",
+    "lv2n": "전시시설",
+    "lv3c": "VE070600",
+    "lv3n": "미술관/화랑",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE08",
+    "lv2n": "행사시설",
+    "lv3c": "VE080600",
+    "lv3n": "연회장",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE09",
+    "lv2n": "교육시설",
+    "lv3c": "VE090100",
+    "lv3n": "한국문화원",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE09",
+    "lv2n": "교육시설",
+    "lv3c": "VE090200",
+    "lv3n": "외국문화원",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE09",
+    "lv2n": "교육시설",
+    "lv3c": "VE090300",
+    "lv3n": "도서관",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE09",
+    "lv2n": "교육시설",
+    "lv3c": "VE090400",
+    "lv3n": "문화전수시설",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE09",
+    "lv2n": "교육시설",
+    "lv3c": "VE090500",
+    "lv3n": "어학당",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE09",
+    "lv2n": "교육시설",
+    "lv3c": "VE090600",
+    "lv3n": "학교",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE10",
+    "lv2n": "레저스포츠시설",
+    "lv3c": "VE100100",
+    "lv3n": "스포츠경기장",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE10",
+    "lv2n": "레저스포츠시설",
+    "lv3c": "VE100200",
+    "lv3n": "스포츠센터, 수련시설",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE12",
+    "lv2n": "기타문화관광지",
+    "lv3c": "VE120100",
+    "lv3n": "서점",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE12",
+    "lv2n": "기타문화관광지",
+    "lv3c": "VE120200",
+    "lv3n": "카지노",
+    "contenttypeid": "28",
+    "typename": "레포츠"
+  },
+  {
+    "lv1c": "VE",
+    "lv1n": "문화관광",
+    "lv2c": "VE12",
+    "lv2n": "기타문화관광지",
+    "lv3c": "VE120300",
+    "lv3n": "기타문화시설",
+    "contenttypeid": "14",
+    "typename": "문화시설"
+  },
+  {
+    "lv1c": "C01",
+    "lv1n": "추천코스",
+    "lv2c": "C0112",
+    "lv2n": "가족코스",
+    "lv3c": "C0112001",
+    "lv3n": "가족코스",
+    "contenttypeid": "25",
+    "typename": "여행코스"
+  },
+  {
+    "lv1c": "C01",
+    "lv1n": "추천코스",
+    "lv2c": "C0113",
+    "lv2n": "나홀로코스",
+    "lv3c": "C0113001",
+    "lv3n": "나홀로코스",
+    "contenttypeid": "25",
+    "typename": "여행코스"
+  },
+  {
+    "lv1c": "C01",
+    "lv1n": "추천코스",
+    "lv2c": "C0114",
+    "lv2n": "힐링코스",
+    "lv3c": "C0114001",
+    "lv3n": "힐링코스",
+    "contenttypeid": "25",
+    "typename": "여행코스"
+  },
+  {
+    "lv1c": "C01",
+    "lv1n": "추천코스",
+    "lv2c": "C0115",
+    "lv2n": "도보코스",
+    "lv3c": "C0115001",
+    "lv3n": "도보코스",
+    "contenttypeid": "25",
+    "typename": "여행코스"
+  },
+  {
+    "lv1c": "C01",
+    "lv1n": "추천코스",
+    "lv2c": "C0116",
+    "lv2n": "캠핑코스",
+    "lv3c": "C0116001",
+    "lv3n": "캠핑코스",
+    "contenttypeid": "25",
+    "typename": "여행코스"
+  },
+  {
+    "lv1c": "C01",
+    "lv1n": "추천코스",
+    "lv2c": "C0117",
+    "lv2n": "맛코스",
+    "lv3c": "C0117001",
+    "lv3n": "맛코스",
+    "contenttypeid": "25",
+    "typename": "여행코스"
+  }
+]
