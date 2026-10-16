@@ -70,12 +70,13 @@ def get_hotel_for_night(hotels: list[dict], night_index: int) -> dict:
 
 def kmeans_geo(spots: list[dict], k: int, max_iter: int = 200) -> tuple[list[int], list[dict]]:
     """
-    지리 좌표 기반 K-Means (k-means++ 초기화).
+    지리 좌표 기반 K-Means (최원점 우선 탐색, farthest-first traversal 초기화).
     반환: (레이블 리스트, 중심점 리스트)
     """
     n = len(spots)
 
-    # 초기 중심점: 서로 최대한 멀리 떨어진 k개
+    # 초기 중심점: 첫 spot에서 시작해, 기존 중심점들과의 최소 거리가 가장 큰 spot을 차례로 추가
+    # (k-means++와 달리 무작위 추출이 없어 같은 입력이면 항상 같은 결과)
     centroids = [{"x": spots[0]["x"], "y": spots[0]["y"]}]
     for _ in range(k - 1):
         farthest = max(
